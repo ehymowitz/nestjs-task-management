@@ -13,5 +13,6 @@
   "typescript.preferences.quoteStyle": "single",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "workbench.editorAssociations": []
+  "workbench.editorAssociations": [],
+  "tabnine.disable_file_regex": []
 }
