@@ -2,7 +2,7 @@
   "workbench.colorTheme": "City Lights",
   "editor.minimap.enabled": false,
   "tabnine.experimentalAutoImports": true,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "workbench.sideBar.location": "right",
   "files.autoSave": "onFocusChange",
   "workbench.startupEditor": "newUntitledFile",
