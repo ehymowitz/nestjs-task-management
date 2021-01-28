@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "City Lights",
+  "editor.minimap.enabled": false,
+  "tabnine.experimentalAutoImports": true,
+  "window.zoomLevel": 1,
+  "workbench.sideBar.location": "right",
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "newUntitledFile",
+  "files.trimTrailingWhitespace": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "typescript.preferences.quoteStyle": "single",
+  "editor.formatOnSave": true,
+}
